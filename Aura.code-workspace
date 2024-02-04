@@ -853,8 +853,6 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=/home/drmcfree/Projects/Patreon/Aura 5.3/Aura.uproject",
-					"-game",
 					"-engine",
 					"-dotnet"
 				],
